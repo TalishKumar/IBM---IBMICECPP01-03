@@ -61,7 +61,7 @@ int main()
             }
         }
         
-       cout << "Your lucky number is:" << finalNumber;
+       cout << "Your lucky number is: " << finalNumber;
     }
     
     return 0;
