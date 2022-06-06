@@ -30,7 +30,6 @@ public:
 	int calculateTariff();
 };
 
-
 class NormalCustomer : public Customer
 {
     public:
