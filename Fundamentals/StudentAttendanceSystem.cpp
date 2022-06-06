@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 int main()   //DO NOT change the 'main' signature
 {
     //Get number of students
